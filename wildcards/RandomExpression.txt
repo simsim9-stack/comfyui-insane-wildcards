@@ -1,0 +1,80 @@
+Smiling:1.2
+Frowning:1.2
+Laughing:1.2
+Crying:1.2
+Surprised:1.2
+Angry:1.2
+Confused:1.2
+Disgusted:1.2
+Excited:1.2
+Fearful:1.2
+Content:1.2
+Amused:1.2
+Pensive:1.2
+Skeptical:1.2
+Blushing:1.2
+Grimacing:1.2
+Shocked:1.2
+Smirking:1.2
+Worried:1.2
+Relieved:1.2
+Sarcastic:1.2
+Baffled:1.2
+Proud:1.2
+Silly:1.2
+Serious:1.2
+Enthusiastic:1.2
+Playful:1.2
+Bored:1.2
+Inquisitive:1.2
+Mischievous:1.2
+Smile
+Frown
+Raised eyebrows
+Wink
+Grimace
+Pout
+Eyebrow raise with a smirk
+Eyebrow furrow
+Side-eye
+Squint
+Eye roll
+Grin
+Smirk
+Surprise
+Shock
+Disgust
+Joyful laughter
+Sneer
+Confused expression
+Contentment
+Sigh of relief
+Wide-eyed wonder
+Sarcastic smile
+Raised one-sided smirk
+Raised chin nod
+Contemplative expression
+Delighted expression
+Shocked disbelief
+Stern look
+Teasing grin
+Raised lip snarl
+Thoughtful gaze
+Raised cheeks with closed eyes (smiling with joy)
+Doubtful expression
+Raised brow with a questioning look
+Wry smile
+Biting lip
+Relaxed and carefree smile
+Anguish
+Ecstatic expression
+Boredom
+Mischief
+Sincere laughter
+Raised chin with pride
+Annoyance
+Raised eyebrow with interest
+Nervous twitch
+Rolling eyes with a grin
+Disbelief
+Inquisitive gaze

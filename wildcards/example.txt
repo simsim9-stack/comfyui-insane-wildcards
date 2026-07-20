@@ -1,0 +1,16 @@
+# Insane Wildcards - Example wildcard file
+# Each line is one option. Lines starting with # are comments.
+
+# Colors
+red
+blue
+green
+yellow
+purple
+orange
+pink
+brown
+black
+white
+
+# These can be used as: __example/color__ in your prompts
