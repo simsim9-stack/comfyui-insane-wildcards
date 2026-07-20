@@ -1,6 +1,6 @@
 # Insane Wildcards
 
-A powerful hybrid ComfyUI custom node that combines wildcard processing from **ImpactWildcardProcessor**, dynamic prompt generation from **Dynamic Prompt**, and multi-line batch output from **PromptLine**.
+A powerful ComfyUI custom node for wildcard processing, dynamic prompt generation, and multi-line batch output — all in one versatile tool.
 
 Node name in ComfyUI: **Insane Wildcards**
 Node ID: `InsaneWildcards`
